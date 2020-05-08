@@ -1,0 +1,22 @@
+/* Top CSS */
+
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+body {
+  background-color: #000d33;
+}
+
+#contenitore {
+  background-color: white;
+  position: relative;
+  display: inline-block;
+  left: 30%;
+}
+
+img {
+  
+}
